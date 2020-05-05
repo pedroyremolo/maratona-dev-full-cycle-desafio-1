@@ -1,0 +1,12 @@
+{
+  "name": "desafio-1-fullcycle",
+  "version": "1.0.0",
+  "description": "Desafio 1 da Maratona FullCycle 2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Lopes",
+  "license": "MIT"
+}
